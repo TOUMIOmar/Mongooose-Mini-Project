@@ -1,0 +1,16 @@
+{
+  "name": "checkpoint-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.10",
+    "validator": "^13.7.0"
+  }
+}
